@@ -18,6 +18,7 @@ Exporting the reconstructed anatomy as an STL file
 This model is designed as a foundational framework for medical image analysis and 3D anatomical reconstruction, which can later be integrated with deep learning pipelines for diagnostic or surgical planning applications.
 
 STL MODEL:https://drive.google.com/file/d/1EiC5Sb1SMy03L9tb6GhtrrGhIUJ-pYeQ/view?usp=sharing
+GITHUB REPO LINK: https://github.com/SanviTaneja/3D_Segmentation-ReconstructionForCT-SCAN-HIP-JOINT-.git
 
 Dataset Used
 The dataset used in this project is obtained from
