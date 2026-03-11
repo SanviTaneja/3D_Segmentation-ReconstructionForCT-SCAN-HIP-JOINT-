@@ -22,6 +22,7 @@ This model is designed as a foundational framework for medical image analysis an
 Dataset Used
 The dataset used in this project is obtained from
 The Cancer Imaging Archive (TCIA): https://www.cancerimagingarchive.net/collection/pelvic-reference-data/
+
 Specifically CT datasets containing pelvic / hip CT scan series.
 Each CT scan series typically consists of 50–150 DICOM slices, which together represent a volumetric scan of the anatomical region.
 
